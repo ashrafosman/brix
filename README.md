@@ -8,10 +8,12 @@ Brix is an animated, talking assistant that runs as a **Databricks App** and ans
 
 ## Videos
 
+**Watch in your browser: [ashrafosman.github.io/brix](https://ashrafosman.github.io/brix/)** · [tutorial](https://ashrafosman.github.io/brix/docs/videos/brix_tutorial.mp4) · [short](https://ashrafosman.github.io/brix/docs/videos/brix_tiktok.mp4)
+
 | | |
 |---|---|
-| [![2-minute tutorial](docs/screenshots/answer.jpg)](docs/videos/brix_tutorial.mp4) | [![30-second short](docs/screenshots/music.jpg)](docs/videos/brix_tiktok.mp4) |
-| **[Tutorial (2 min, 1080p)](docs/videos/brix_tutorial.mp4)**: a narrated tour of every feature. Captions are burned in, and also come as [a subtitle file](docs/videos/brix_tutorial.srt). | **[Short (30 s, vertical)](docs/videos/brix_tiktok.mp4)**: a fast cut in Brix's own voice, for Reels, Shorts and TikTok. |
+| [![2-minute tutorial](docs/screenshots/answer.jpg)](https://ashrafosman.github.io/brix/docs/videos/brix_tutorial.mp4) | [![30-second short](docs/screenshots/music.jpg)](https://ashrafosman.github.io/brix/docs/videos/brix_tiktok.mp4) |
+| **[Tutorial (2 min, 1080p)](https://ashrafosman.github.io/brix/docs/videos/brix_tutorial.mp4)**: a narrated tour of every feature. Captions are burned in, and also come as [a subtitle file](docs/videos/brix_tutorial.srt). | **[Short (30 s, vertical)](https://ashrafosman.github.io/brix/docs/videos/brix_tiktok.mp4)**: a fast cut in Brix's own voice, for Reels, Shorts and TikTok. |
 
 ## What Brix does
 

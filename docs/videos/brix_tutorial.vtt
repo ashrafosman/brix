@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00.300 --> 00:04.115
+Meet Brix, a friendly data assistant living in a bakery.
+
+00:04.165 --> 00:09.911
+It runs as a Databricks App and answers from a Genie agent over your Bakehouse data.
+
+00:12.084 --> 00:14.626
+When it's quiet, Brix vibes to music.
+
+00:14.676 --> 00:18.479
+Click to play or pause, double-click for the next song.
+
+00:18.529 --> 00:21.001
+The TV in the counter is the player.
+
+00:23.480 --> 00:30.778
+The window follows your clock: the sun and moon move, the moon shows its real phase, and the weather is local.
+
+00:40.254 --> 00:45.124
+The chalkboard shows live revenue and top customers from your dashboard.
+
+00:45.174 --> 00:46.900
+Tap it to open dashboards.
+
+00:53.174 --> 00:58.979
+The tickets are the last three runs of the daily job, and the oven light shows pipeline health.
+
+00:59.958 --> 01:03.907
+The recipe book is your catalog, with each table's freshness.
+
+01:06.051 --> 01:07.996
+Ask anything in plain English.
+
+01:08.046 --> 01:13.913
+Brix acts out what Genie is doing: finding data, planning the query, running the numbers.
+
+01:14.016 --> 01:20.574
+Brix: Here is the daily revenue for the last 30 days; this period falls in Oct 25, 2026 to Nov 23, 2026, which is simulated test data rather than real business activity.
+
+01:20.624 --> 01:21.993
+Brix: Examples include: October 25: 4260.
+
+01:22.143 --> 01:25.430
+Answers come with a chart, or switch to the table.
+
+01:27.597 --> 01:31.503
+Pull the lamp chain to dim the room, and the panels go dark.
+
+01:35.041 --> 01:39.161
+If the daily job fails, Brix tells you, with a link to the run.
+
+01:40.012 --> 01:45.454
+The menu lists everything you can ask or do, including hands-free chat with the mic.
+
+01:46.305 --> 01:51.781
+Each croissant is someone here right now, and the counter shows everyone served.
+
+01:51.831 --> 01:52.610
+That's Brix!
