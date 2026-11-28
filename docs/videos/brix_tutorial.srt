@@ -1,79 +1,79 @@
 1
-00:00:00,300 --> 00:00:04,115
-Meet Brix, a friendly data assistant living in a bakery.
+00:00:00,300 --> 00:00:04,512
+Meet Genie Bot, a friendly data assistant living in a bakery.
 
 2
-00:00:04,165 --> 00:00:09,911
+00:00:04,562 --> 00:00:10,381
 It runs as a Databricks App and answers from a Genie agent over your Bakehouse data.
 
 3
-00:00:12,502 --> 00:00:17,371
+00:00:11,233 --> 00:00:16,103
 The chalkboard shows live revenue and top customers from your dashboard.
 
 4
-00:00:17,421 --> 00:00:19,148
+00:00:16,153 --> 00:00:17,879
 Tap it to open dashboards.
 
 5
-00:00:19,997 --> 00:00:25,802
+00:00:18,731 --> 00:00:24,536
 The tickets are the last three runs of the daily job, and the oven light shows pipeline health.
 
 6
-00:00:26,747 --> 00:00:30,695
+00:00:25,488 --> 00:00:29,436
 The recipe book is your catalog, with each table's freshness.
 
 7
-00:00:32,850 --> 00:00:34,795
+00:00:31,593 --> 00:00:33,560
 Ask anything in plain English.
 
 8
-00:00:34,845 --> 00:00:40,712
-Brix acts out what Genie is doing: finding data, planning the query, running the numbers.
+00:00:33,610 --> 00:00:39,881
+Genie Bot acts out what Genie is doing: finding data, planning the query, running the numbers.
 
 9
-00:00:38,687 --> 00:00:45,248
-Brix: Here is the daily revenue for the last 30 days; this period falls in Oct 25, 2026 to Nov 23, 2026, which is simulated test data rather than real business activity.
+00:00:42,955 --> 00:00:48,733
+Genie Bot: Here is the daily revenue for the last 29 days returned by the query; these dates are all from simulated test data, not real business activity.
 
 10
-00:00:45,298 --> 00:00:46,667
-Brix: Examples include: October 25: 4260.
+00:00:48,783 --> 00:00:50,933
+Genie Bot: A few representative values include: October 30: 3933.
 
 11
-00:00:46,818 --> 00:00:50,105
+00:00:51,083 --> 00:00:54,371
 Answers come with a chart, or switch to the table.
 
 12
-00:00:52,282 --> 00:00:56,188
+00:00:56,508 --> 00:01:00,414
 Pull the lamp chain to dim the room, and the panels go dark.
 
 13
-00:00:59,702 --> 00:01:03,822
-If the daily job fails, Brix tells you, with a link to the run.
+00:01:03,906 --> 00:01:08,602
+If the daily job fails, Genie Bot tells you, with a link to the run.
 
 14
-00:01:04,742 --> 00:01:10,184
+00:01:09,454 --> 00:01:14,896
 The menu lists everything you can ask or do, including hands-free chat with the mic.
 
 15
-00:01:11,035 --> 00:01:16,114
+00:01:15,748 --> 00:01:20,827
 Each croissant is someone here right now, and the counter shows everyone served.
 
 16
-00:01:16,965 --> 00:01:24,263
+00:01:21,677 --> 00:01:28,975
 The window follows your clock: the sun and moon move, the moon shows its real phase, and the weather is local.
 
 17
-00:01:29,661 --> 00:01:32,579
-And when it's quiet, Brix vibes to music.
+00:01:38,842 --> 00:01:42,104
+And when it's quiet, Genie Bot vibes to music.
 
 18
-00:01:32,629 --> 00:01:36,562
+00:01:42,154 --> 00:01:46,064
 Click to play or pause, double-click for the next song.
 
 19
-00:01:36,612 --> 00:01:39,168
+00:01:46,114 --> 00:01:48,656
 The TV in the counter is the player.
 
 20
-00:01:39,218 --> 00:01:40,037
-That's Brix!
+00:01:48,706 --> 00:01:49,880
+That's Genie Bot!
